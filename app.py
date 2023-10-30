@@ -1,8 +1,5 @@
-import math
+y=26
 
-import addSum
+m=y+14
 
-
-print(math.sqrt(9.0))
-
-print(addSum.add(9,3))
+print(m)
